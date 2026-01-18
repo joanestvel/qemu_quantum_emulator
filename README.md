@@ -45,6 +45,7 @@ Implemented so far:
 Some testbenches are still incomplete and under active development
 
 ## Repository structure
+```text
 libraries/
 ├── cmpx_lib/
 │   ├── src/
@@ -59,6 +60,7 @@ libraries/
     ├── src/
     │   ├── int_ext_mult.vhd
     │   └── int_ext_pkg.vhd
+```
 
 ## Design Philosop[hy
 * Modularity: All arithmetic blocks are implemented as reusable VHDL libraries
